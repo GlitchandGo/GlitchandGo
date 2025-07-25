@@ -11,7 +11,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🎯 Current Projects
-- **Timmy's Arcade** - Stay tuned for updates!
+- **Timmy's Arcade** – An action-packed arcade experience. Stay tuned for updates!
+- **Glitch Studio** – My main development hub for creative JavaScript projects.
+- **Beyond Rare** – Exploring rare and unique game concepts.
+- **Love Tester** – A fun app to test compatibility and connections.
+- **Flow** – Smooth, intuitive utility tools for gamers and developers.
 
 ### 📫 How to reach me
 - 📧 Email: glitch.and.go@outlook.com
