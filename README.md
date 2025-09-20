@@ -3,7 +3,7 @@
 <h3 align="center">A passionate JavaScript developer and gaming enthusiast</h3>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **Glitch Studio**
+- 🔭 I'm currently working on **Fleck Studio**
 - 💻 My main focus is **JavaScript** development
 - 🎮 When I'm not coding, you can find me gaming
 - 👯 I'm always open to exciting collaboration opportunities!
@@ -13,10 +13,10 @@
 
 ### 🎯 Current Projects
 - **Timmy's Arcade** – An action-packed arcade gaming platform. Stay tuned for updates!
-- **Glitch Studio** – A social platform for uploading and sharing movies, TV shows, and videos.
+- **Fleck Studio** – A social platform for uploading and sharing movies, TV shows, and videos.
 - **Beyond Rare** – A click-for-rarity game featuring expansive shops and deep customization options.
 - **Love Tester** – A fun compatibility app to test connections between friends or couples.
-- **Flow** – A rhythm game where you tap to the beat.
+- **Flow** – A simple rhythm game where you tap to the beat.
 
 ### 📫 How to reach me
 - 📧 Email: glitch.and.go@outlook.com
