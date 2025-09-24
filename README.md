@@ -26,3 +26,13 @@ I'm always interested in working on new and exciting projects! If you have an in
 
 <p align="center">
   <i>Let's connect and create something awesome together!</i>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchandgo&layout=compact&langs_count=7&theme=midnight-purple" style="display:block; margin:auto;">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Glitchandgo&show_icons=true&theme=midnight-purple" width="400">
+</div>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchandgo&theme=midnight-purple" width="400">
+</div>
